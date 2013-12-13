@@ -1,4 +1,4 @@
-ES 1036 - Programming Fundamentals for Engineers
+ES 1036: Programming Fundamentals for Engineers
 ================
 
 ## Links

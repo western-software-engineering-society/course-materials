@@ -1,6 +1,6 @@
-AM 1413 - Applied Mathematics for Engineers I
+AM 1413: Applied Mathematics for Engineers I
 ================
 
 ## Links
 
-* [Course Information (2013)](http://www.westerncalendar.uwo.ca/2013/pg887.html#33682)
+* [Wiki Page](https://github.com/western-software-engineering-society/course-materials/wiki/AM-1413:-Applied-Mathematics-for-Engineers-I)
