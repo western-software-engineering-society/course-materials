@@ -3,4 +3,4 @@ ES 1036 - Programming Fundamentals for Engineers
 
 ## Links
 
-* [Course Information (2013)](http://www.westerncalendar.uwo.ca/2013/pg907.html#34456)
+* [Wiki Page](https://github.com/western-software-engineering-society/course-materials/wiki/ES-1036:-Programming-Fundamentals-for-Engineers)
